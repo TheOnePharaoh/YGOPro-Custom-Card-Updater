@@ -6,4 +6,4 @@ Just Extract the updater in your game folder and run update-cc.bat
 also for automatic updating create a task in task scheduler for update-cc-auto.bat
 
 
-This Works On YGOPro 2.0 and 1.0
+This Works On Both YGOPro 2.0 and 1.0
